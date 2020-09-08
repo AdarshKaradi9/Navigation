@@ -1,0 +1,14 @@
+clite SME
+ECE_Dept SME
+clite BT_Auditorium
+clite LHC 
+SME Main_building 
+LHC Main_building 
+Prerna_Hostel Main_building 
+Post_Office Main_building 
+Prerna_Hostel LHC
+Ladies_Hostel LHC
+Junior_boys_hostel Senior_boys_hostel 
+Junior_boys_hostel SME 
+Junior_boys_hostel Post_Office 
+Junior_boys_hostel BT_Auditorium
